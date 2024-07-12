@@ -3,7 +3,7 @@
 ## Overview
 "Hotlap" is a racing game developed as a secondary school graduation project. This 3D game is designed for motorsport enthusiasts or those who want to improve their reaction skills and driving techniques, or simply enjoy a relaxing free drive. The game features 8 cars and 3 maps with different environments.
 
-![Hotlap Showcase](path/to/your/gif.gif)
+![Hotlap Showcase](HotlapShowcase.gif)
 
 ## Project Goals
 1. Design a simple game scenario, including graphical design, sound effects, physics, and game logic.
