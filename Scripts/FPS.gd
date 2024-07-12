@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2a9b8dcf44236450a756eced86320b3a914ef9e7473ccbcf230a66cbc64dd28
-size 301
+extends Label
+
+# Called when the node enters the scene tree for the first time.
+func _ready():
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(_delta):
+	var FPS = Engine.get_frames_per_second()
+	text = "FPS " + str(FPS)
