@@ -17,7 +17,3 @@
 
 # Source code should be text and not managed by LFS
 *.gd text
-*.py text
-*.js text
-*.css text
-*.html text
