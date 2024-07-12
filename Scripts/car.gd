@@ -16,6 +16,8 @@ extends RigidBody3D
 @export var engine_power: float = 6
 
 var accel_input
+var idle_rpm: float = 1000  # Idle RPM
+var rpm_increase_factor: float = 100  
 
 @export var steering_angle: float = 25
 @export var front_tire_grip: float = 4
@@ -171,9 +173,6 @@ func get_current_speed_limit() -> float:
 
 func get_engine_torque(rpm):
 	return engine_power 
-
-var idle_rpm: float = 1000  # Idle RPM
-var rpm_increase_factor: float = 100  
 
 func calculate_rpm(delta):
 	if not in_neutral:
