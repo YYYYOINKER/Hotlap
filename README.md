@@ -35,7 +35,7 @@ The large models and scenes used in the game are available for download from the
 - [Models and Scenes](https://drive.google.com/drive/folders/1F7A8z314d9doi8fQRLVBM47PR38cxiK_?usp=sharing)
 
 ## Acknowledgements
-I would like to express my deep gratitude for the valuable advice, professional guidance, and humane approach throughout this project. The expertise and practical experience were invaluable to the success of the project.
+I would like to express my deep gratitude for the valuable advice, professional guidance, and humane approach from my consultant's side throughout this project. The expertise and practical experience were invaluable to the success of the project.
 
 ## Disclaimer
 This documentation and all accompanying files constitute a school project and are considered a school work under § 93 of the Act No. 185/2015 Coll. (the Copyright Act). The school assumes the application of a public license to the school work under § 76 of this Act.
