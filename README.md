@@ -32,7 +32,7 @@ To play the game, download the built version from the [latest release](https://g
 
 ## Models and Scenes Download
 The large models and scenes used in the game are available for download from the following links:
-- [Models and Scenes](https://drive.google.com/drive/folders/1oBKJPeOoBzqRUjrgeC1EAp0sTeT4XfaA?usp=drive_link)
+- [Models and Scenes](https://drive.google.com/drive/folders/1F7A8z314d9doi8fQRLVBM47PR38cxiK_?usp=sharing)
 
 ## Acknowledgements
 I would like to express my deep gratitude for the valuable advice, professional guidance, and humane approach throughout this project. The expertise and practical experience were invaluable to the success of the project.
