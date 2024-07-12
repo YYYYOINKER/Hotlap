@@ -3,6 +3,8 @@
 ## Overview
 "Hotlap" is a racing game developed as a secondary school graduation project. This 3D game is designed for motorsport enthusiasts or those who want to improve their reaction skills and driving techniques, or simply enjoy a relaxing free drive. The game features 8 cars and 3 maps with different environments.
 
+![Hotlap Showcase](path/to/your/gif.gif)
+
 ## Project Goals
 1. Design a simple game scenario, including graphical design, sound effects, physics, and game logic.
 2. Create graphical designs and sounds using suitable graphics and audio editors.
@@ -26,7 +28,7 @@
 - **Godot Engine (v4.2.1):** Game development
 
 ## Installation
-To play the game, download the built version from the provided Google Drive link and run the executable file.
+To play the game, download the built version from the [latest release](https://github.com/YYYYOINKER/Hotlap/releases/latest) and run the executable file.
 
 ## Models and Scenes Download
 The large models and scenes used in the game are available for download from the following links:
