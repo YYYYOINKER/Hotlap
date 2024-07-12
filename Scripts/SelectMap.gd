@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a810261fa9ba5e4fb02a157d6fceb877f4c386f6faaefcb34dbccfd5acf8e32d
-size 562
+extends Control
+
+func _on_back_pressed():
+	get_tree().change_scene_to_file("res://Scenes/MainMenu3D.tscn")
+
+
+func _on_forest_track_pressed():
+	GameData.selected_map = "res://Scenes/world.tscn"
+	get_tree().change_scene_to_file("res://Scenes/select_car.tscn")
+
+
+func _on_desert_track_pressed():
+	GameData.selected_map = "res://Scenes/world_2.tscn"
+	get_tree().change_scene_to_file("res://Scenes/select_car.tscn")
+
+
+func _on_freeroam_pressed():
+	GameData.selected_map = "res://Scenes/world_3.tscn"
+	get_tree().change_scene_to_file("res://Scenes/select_car.tscn")
