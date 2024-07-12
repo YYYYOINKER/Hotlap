@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:827578772e1fcf201ff499c669220d6ec13c67481a74c32d4f39b025905f68e5
-size 912
+extends Control
+
+func _on_back_pressed():
+	get_tree().change_scene_to_file("res://Scenes/menu.tscn")
+
+func _on_audio_pressed():
+	get_tree().change_scene_to_file("res://Scenes/audio.tscn")
+
+func _on_video_pressed():
+	get_tree().change_scene_to_file("res://Scenes/video.tscn")
+
+func _on_fullsceen_toggled(toggled_on):
+	if toggled_on == true:
+		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_FULLSCREEN)
+	else:
+		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_WINDOWED)
+
+func _on_borderless_toggled(toggled_on):
+	if toggled_on == true:
+		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_EXCLUSIVE_FULLSCREEN)
+	else:
+		DisplayServer.window_set_mode(DisplayServer.WINDOW_MODE_WINDOWED)
+		
+func _on_v_sync_toggled(toggled_on):
+	if toggled_on == true:
+		DisplayServer.window_set_vsync_mode(DisplayServer.VSYNC_ENABLED)
+	else:
+		DisplayServer.window_set_vsync_mode(DisplayServer.VSYNC_DISABLED)
