@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc988ed3a562237ce12e4ea319b9b9b378f6fe14f9d61853391fbcacb2c5415e
-size 295
+extends Control
+
+func _on_video_pressed():
+	get_tree().change_scene_to_file("res://Scenes/video_menu.tscn")
+
+
+func _on_audio_pressed():
+	get_tree().change_scene_to_file("res://Scenes/audio_menu.tscn")
+
+
+func _on_back_pressed():
+	get_tree().change_scene_to_file("res://Scenes/MainMenu3D.tscn")
