@@ -26,7 +26,9 @@ Hotlap is a 3D racing game developed as a school project. The game features real
 
 ## Download Link
 
-The game is available for download on via the [Releases](https://github.com/YYYYOINKER/Hotlap/releases/tag/v1.0.0) page on GitHub. Click the link below to download the latest project files for Hotlap:
+The game is available for download via the [Releases](https://github.com/YYYYOINKER/Hotlap/releases/tag/v1.0.0) page on GitHub. 
+
+- Click the link below to download the latest project files for Hotlap:
 
 - [Download from Google Drive](https://drive.google.com/drive/folders/1WII1iQwYpoXBmZjtb4LYicSXd1cuu8x6?usp=drive_link)
 
