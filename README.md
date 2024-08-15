@@ -14,9 +14,9 @@ Hotlap is a 3D racing game developed as a school project. The game features real
 - **Custom Physics**: arcade car physics to enhance the driving experience.
 - **Intuitive UI**: User-friendly interface with customizable settings.
 
-## Screenshots
+## Showcase
 
-![Game Screenshot](hotlap.png)
+![Game Screenshot](HotlapShowcase.gif)
 
 ## Installation
 
