@@ -3,7 +3,7 @@
 
 ## Overview
 
-Hotlap is a 3D racing game developed as a school project. The game features realistic physics, various cars, and tracks for players to enjoy. It was developed using the Godot Engine and is designed to provide an immersive and challenging racing experience.
+Hotlap is a 3D racing game developed as a school project. The game features custom physics, various cars, and tracks for players to enjoy. It was developed using the Godot Engine and is designed to provide an immersive and challenging racing experience.
 
 ## Features
 
@@ -34,10 +34,11 @@ The game is available for download via the [Releases](https://github.com/YYYYOIN
 
 ## Controls
 
-- **WASD or Arrow Keys**: Move the car
+- **WASD or Arrow Keys or Left thumb stick on controller and Bumpers**: Move the car
 - **Esc**: Pause Menu
 - **Space**: Gear Up
 - **Ctrl**: Gear Down
+- **Middle mouse button**: Rotate camera
 
 ## License
 
