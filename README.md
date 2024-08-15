@@ -16,7 +16,7 @@ Hotlap is a 3D racing game developed as a school project. The game features real
 
 ## Screenshots
 
-![Game Screenshot]()
+![Game Screenshot](hotlap.png)
 
 ## Installation
 
