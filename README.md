@@ -30,9 +30,9 @@
 ## Installation
 To play the game, download the built version from the [latest release](https://github.com/YYYYOINKER/Hotlap/releases/latest) and run the executable file.
 
-## Models and Scenes Download
-The large models and scenes used in the game are available for download from the following links:
-- [Models and Scenes](https://drive.google.com/drive/folders/1F7A8z314d9doi8fQRLVBM47PR38cxiK_?usp=sharing)
+## Repo download
+Since the repo is cursed you can download it below.
+- [Project](https://drive.google.com/drive/folders/1WII1iQwYpoXBmZjtb4LYicSXd1cuu8x6?usp=drive_link)
 
 ## Acknowledgements
 I would like to express my deep gratitude for the valuable advice, professional guidance, and humane approach from my consultant's side throughout this project. The expertise and practical experience were invaluable to the success of the project.
