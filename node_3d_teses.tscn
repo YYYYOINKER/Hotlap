@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://c8e8gqkecpan1"]
+
+[ext_resource type="PackedScene" uid="uid://d5cwj38soenl" path="res://Models/world1.glb" id="1_acw27"]
+[ext_resource type="PackedScene" uid="uid://cdhc27kwynww" path="res://Scenes/car.tscn" id="2_mni8e"]
+
+[node name="Node3DTeses" type="Node3D"]
+
+[node name="world1" parent="." instance=ExtResource("1_acw27")]
+transform = Transform3D(16, 0, 0, 0, 16, 0, 0, 0, 16, 0, 0, 0)
+
+[node name="Car" parent="." instance=ExtResource("2_mni8e")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -69.1479, 101.559, 0)
+
+[node name="Camera3D" type="Camera3D" parent="Car"]
