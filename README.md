@@ -11,7 +11,7 @@ Hotlap is a 3D racing game developed as a school project. The game features real
 - **Various Tracks**: 3 distinct maps - Sakura Forest, Desert, and Canyon, each offering different challenges and environments.
 - **Time Trials**: Compete against the clock and save your best times.
 - **Free Roam**: Explore the Canyon map at your own pace.
-- **Realistic Physics**: Semi-realistic car physics to enhance the driving experience.
+- **Custom Physics**: arcade car physics to enhance the driving experience.
 - **Intuitive UI**: User-friendly interface with customizable settings.
 
 ## Screenshots
@@ -21,7 +21,7 @@ Hotlap is a 3D racing game developed as a school project. The game features real
 ## Installation
 
 1. Download the game from the link below.
-2. Extract the ZIP file to your desired location.
+2. Extract the RAR file to your desired location.
 3. Run `Hotlap.exe` to start the game.
 
 ## Download Link
